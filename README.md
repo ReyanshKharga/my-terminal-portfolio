@@ -5,4 +5,4 @@ My perfolio website in terminal version developed with `React`, `TypeScript` and
 
 ## Author
 
-[@satnaing](https://satnaing.dev) is the original author of this project, while I have made personal customizations to suit my specific needs. 
+[@satnaing](https://satnaing.dev) is the original author of this project, while I have made personal customizations to suit my specific needs.
