@@ -18,7 +18,7 @@ const About: React.FC = () => {
         I am passionate about DevOps, Kubernetes, Microservices, public cloud such as AWS, GCP, and Azure. <br />
       <p>
       <br />
-      <HighlightSpan>My Skillset:</HighlightSpan><br />
+      <HighlightSpan>Technical Skills:</HighlightSpan><br />
       AWS, GCP, Terraform, Kubernetes, Python, Microservices, Service Mesh (Istio), CI/CD, Prometheus, Grafana.
       </p>
       </p>
